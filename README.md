@@ -1,3 +1,6 @@
+<html>
+<body>
+
 <div class="spanner align-center show max-height max-width">
 		<div class="loader-wrapper align-center">
 			<div class="loader"></div>
