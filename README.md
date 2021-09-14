@@ -1,6 +1,5 @@
 
 
-<!DOCTYPE html>
 <html class="max-height max-width">
 
 
